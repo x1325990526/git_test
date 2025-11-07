@@ -1,1 +1,2 @@
 hello world
+and change the default message editor
